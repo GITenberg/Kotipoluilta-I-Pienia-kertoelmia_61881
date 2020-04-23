@@ -1,0 +1,29 @@
+_repo: Kotipoluilta-I-Pienia-kertoelmia_61881
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lassinen, Emil
+    birthdate: 1861
+    deathdate: 1938
+    gutenberg_agent_id: '37583'
+    url: http://www.gutenberg.org/2009/agents/37583
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Lassinen
+description: ''
+gutenberg_issued: '2020-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61881'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcsh 'Short stories, Finnish'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Uusi ystävä -- Nuoruuteni ajoilta -- Kaksi valapattoista -- Tapaturma
+  -- Hajanaisia piirteitä elämästäni -- Valoa ja varjoa -- Hattuni historia -- Onnea
+  pakoon.
+title: 'Kotipoluilta I: Pieniä kertoelmia'
+url: http://www.gutenberg.org/ebooks/61881
